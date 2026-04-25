@@ -40,7 +40,7 @@ Algorithms:
   
   ~Depth-First Search (Path Exploration)
 
-##Overall Approach
+## Overall Approach
 
 The maze is represented as a grid where each cell is either a wall or a path. A randomized DFS algorithm is used to generate a solvable maze. After generation, BFS and DFS algorithms are applied to find paths from the start to the end point. BFS guarantees the shortest path, while DFS explores one possible route without guaranteeing optimality. The results are visualized in a graphical interface with animated path rendering.
 
