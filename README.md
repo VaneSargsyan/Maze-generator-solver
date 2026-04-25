@@ -8,7 +8,9 @@ This project is a Maze Generator and Solver application built using React and gr
 
 ## Project Objectives
   ~To model a maze as a 2D grid graph
+  
   ~To generate random and fully connected mazes using DFS
+  
   ~To implement BFS and DFS algorithms for pathfinding
   ~To compare shortest path (BFS) vs exploratory path (DFS)
   ~To visualize algorithm execution and results
