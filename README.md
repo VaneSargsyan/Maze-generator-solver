@@ -12,20 +12,28 @@ This project is a Maze Generator and Solver application built using React and gr
   ~To generate random and fully connected mazes using DFS
   
   ~To implement BFS and DFS algorithms for pathfinding
+  
   ~To compare shortest path (BFS) vs exploratory path (DFS)
+  
   ~To visualize algorithm execution and results
+  
   ~To develop an interactive and educational UI
 
 ## Data Structures & Algorithms Used
 Data Structures:
   ~2D Array (grid representation of the maze)
+  
   ~Queue (used in BFS)
+  
   ~Stack (used in DFS)
+  
   ~Set (for tracking visited nodes)
 
 Algorithms:
   ~Randomized Depth-First Search (Maze Generation)
+  
   ~Breadth-First Search (Shortest Path Finding)
+  
   ~Depth-First Search (Path Exploration)
 
 ##Overall Approach
@@ -38,14 +46,22 @@ Knarik Papoyan
 ##Contributions
 🧑‍💻 Vane Sargsyan
   ~Implemented maze generation algorithm (Randomized DFS)
+  
   ~Implemented BFS and DFS pathfinding algorithms
+  
   ~Developed React UI and grid visualization
+  
   ~Integrated algorithm statistics (path length, visited nodes)
+  
   ~Implemented animation of path traversal
+  
 👩‍💻 Knarik Papoyan
   ~Assisted in UI/UX design and layout structure
+  
   ~Supported debugging and testing of algorithms
+  
   ~Contributed to styling and user experience improvements
+  
   ~Helped in project documentation and presentation preparation
 
 ## Technologies Used
